@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-06 11:52+0100\n"
+"PO-Revision-Date: 2020-10-17 23:50+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: Luis A. Martínez <luis.a.martinez@gmail.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: plugin.py:9
+msgid "Softcam setup..."
+msgstr "Ajuste de softcam…"
+
+#: plugin.py:13
+msgid "Softcam setup"
+msgstr "Ajuste de softcam"
+
+#: plugin.py:13
+msgid "Lets you configure your softcams"
+msgstr "Te permite configurar tus softcams"
+
+#: Sc.py:63
+msgid "Select Softcam"
+msgstr "Selecciona softcam"
+
+#: Sc.py:67
+msgid "Select Card Server"
+msgstr "Selecciona servidor de tarjetas"
+
+#: Sc.py:69
+msgid "Restart softcam"
+msgstr "Reiniciar softcam"
+
+#: Sc.py:71
+msgid "Restart cardserver"
+msgstr "Reiniciar servidor de tarjetas"
+
+#: Sc.py:72
+msgid "Restart both"
+msgstr "Reiniciar ambos"
+
+#: Sc.py:74
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: Sc.py:75
+msgid "OK"
+msgstr "OK"
+
+#: Sc.py:91
+msgid "Please wait, restarting softcam and cardserver."
+msgstr "Por favor, espera, reiniciando softcam y servidor de tarjetas."
+
+#: Sc.py:93
+msgid "Please wait, restarting softcam."
+msgstr "Por favor, espera, reiniciando softcam."
+
+#: Sc.py:95
+msgid "Please wait, restarting cardserver."
+msgstr "Por favor, espera, reiniciando servidor de tarjetas."
